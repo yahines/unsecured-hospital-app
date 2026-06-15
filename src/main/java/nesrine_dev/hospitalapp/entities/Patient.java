@@ -1,4 +1,4 @@
-package ma.enset.hospitalapp.entities;
+package nesrine_dev.hospitalapp.entities;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.Min;

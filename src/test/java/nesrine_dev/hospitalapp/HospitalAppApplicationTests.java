@@ -1,4 +1,4 @@
-package ma.enset.hospitalapp;
+package nesrine_dev.hospitalapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

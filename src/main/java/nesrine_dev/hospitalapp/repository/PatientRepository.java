@@ -1,6 +1,6 @@
-package ma.enset.hospitalapp.repository;
+package nesrine_dev.hospitalapp.repository;
 
-import ma.enset.hospitalapp.entities.Patient;
+import nesrine_dev.hospitalapp.entities.Patient;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;
