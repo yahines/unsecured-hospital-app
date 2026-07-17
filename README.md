@@ -6,7 +6,7 @@ A hospital management app — currently unsecured.
 ## Goal
 Adding **Spring Security** module to secure the application.
 
-**Statfull mode** for server-side HTML rendrering application.
+**Statefull mode** for server-side HTML rendrering application.
 
 ## Technologies
 - Java
